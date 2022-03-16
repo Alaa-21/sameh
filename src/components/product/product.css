@@ -1,0 +1,20 @@
+.product {
+  direction: rtl;
+  margin-top: 2rem;
+  margin-right: 2rem;
+}
+.product h2 {
+  width: 100%;
+}
+.productContainer {
+  margin-top: 1rem;
+}
+.productContainer p {
+  text-align: start;
+  flex-wrap: wrap;
+  width: 75%;
+  margin-bottom: 0.25rem;
+}
+.productContainer img {
+  width: 215px;
+}

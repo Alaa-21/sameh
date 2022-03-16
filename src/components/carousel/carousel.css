@@ -1,0 +1,35 @@
+h2 {
+  margin-bottom: 2rem;
+}
+h2 span {
+  font-size: 25px;
+  font-weight: bold;
+  color: #333 !important;
+}
+.more {
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  color: #333 !important;
+}
+.carousel-item {
+  height: 40rem;
+  background-color: #777;
+  position: relative !important;
+  margin-bottom: 3rem;
+  overflow: hidden;
+}
+.carousel-indicators {
+  margin-bottom: 5rem !important;
+}
+.carousel-item img {
+  margin: 1rem 23rem;
+  max-width: 40%;
+  min-width: 30%;
+}
+.carousel-inner.container {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  padding-bottom: 50px;
+}
